@@ -1,3 +1,5 @@
+<img width="653" height="368" alt="RFM_dashboard" src="https://github.com/user-attachments/assets/0d16e750-0490-4264-852a-9007f6d5239a" />
+
 # RFM Customer Segmentation Analysis 
 
 ## Project Overview
