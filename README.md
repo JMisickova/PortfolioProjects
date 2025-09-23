@@ -1,8 +1,8 @@
 # Customer Segmentation Analysis (SQL Project)
 
 ## Project Overview
-### This project analyzes retail transaction data using SQL to uncover customer purchasing patterns and segment customers with RFM (Recency, Frequency, Monetary) analysis.
-### The goal is to help the business better target marketing campaigns and understand customer behavior.
+- This project analyzes retail transaction data using SQL to uncover customer purchasing patterns and segment customers with RFM (Recency, Frequency, Monetary) analysis.
+- The goal is to help the business better target marketing campaigns and understand customer behavior.
 
 ## Technologies Used
 ### Excel: Retail Analysis on Large Dataset (in csv format from Kaggle)
