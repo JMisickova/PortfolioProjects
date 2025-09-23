@@ -5,22 +5,22 @@
 - The goal is to help the business better target marketing campaigns and understand customer behavior.
 
 ## Technologies Used
-Excel: Retail Analysis on Large Dataset (in csv format from Kaggle)
-SQL Server: For data extraction and transformation.
-Power BI: For data visualization and dashboard creation.
+- Excel: Retail Analysis on Large Dataset (in csv format from Kaggle)
+- SQL Server: For data extraction and transformation.
+- Power BI: For data visualization and dashboard creation.
 
 ## Business Question
 ### “Which customers generate the highest value for the company and how do they differ from others?”
 
 ## Hypotheses
-H1: Customers with higher income purchase more frequently and spend more.
-H2: Certain age groups have higher average purchase frequency and purchase value.
-H3: Customers from specific cities/countries generate higher revenue.
+- H1: Customers with higher income purchase more frequently and spend more.
+- H2: Certain age groups have higher average purchase frequency and purchase value.
+- H3: Customers from specific cities/countries generate higher revenue.
 
 ## Dataset
-Source: Retail Analysis on Large Dataset – Kaggle
-Rows: 302,010
-Columns: 30
+- Source: Retail Analysis on Large Dataset – Kaggle
+- Rows: 302,010
+- Columns: 30
 
 ### Main areas covered:
 - Customers: ID, Age, Gender, Income, Address, Country
