@@ -47,7 +47,7 @@
 - Interactive tooltips – KPI values and charts dynamically change when a segment is selected.
 - Cross-filtering – all visuals are interconnected, allowing multiple perspectives on the data.
 
-### Project Phase 1 – Data Cleaning
+## Project Phase 1 – Data Cleaning
 Objective: Prepare data for RFM analysis and segmentation.
 
 - Removed duplicates (ROW_NUMBER() + CTE)
@@ -58,7 +58,7 @@ Objective: Prepare data for RFM analysis and segmentation.
 - Ensured unique Transaction_ID values
 - Created a unified datetime column
 
-### Project Phase 2 – Data Analysis
+## Project Phase 2 – Data Analysis
 Marketing Model Applied: RFM (Recency, Frequency, Monetary)
 
 - Recency (R): How recently a customer purchased
@@ -74,7 +74,7 @@ Customer Segmentation (7 Categories)
 - Need Attention – average customers
 - Lost – inactive customers
 
-### Project Phase 3 - Data Visualization in Power BI
+## Project Phase 3 - Data Visualization in Power BI
 - The final dashboard answers the business question and hypotheses. 
 - It also allows marketers to quickly identify segments (and their characteristics) with the highest (or lowest) value and target campaigns accordingly.
 
