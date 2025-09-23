@@ -92,7 +92,7 @@ Revenue by RFM Segmenatiton:
 - At Risk: $9.6M (2,8%)
 -  Lost: $6.5M (1,93%)
 
-Total Number of Customers: 294 423 (100%)
+Total Number of Customers: 294 423 
   
 Number of customers by RFM Segmentation:
 - Loyal Customers: 70 836 (24% of all customers)
