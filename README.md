@@ -7,7 +7,6 @@
 - The goal is to help the business better target marketing campaigns and understand customer behavior.
 
 ## Technologies Used
-- Excel: Retail Analysis on Large Dataset (in csv format from Kaggle)
 - SQL Server: For data extraction and transformation.
 - Power BI: For data visualization and dashboard creation.
 
