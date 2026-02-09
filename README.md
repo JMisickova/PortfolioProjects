@@ -80,7 +80,7 @@ Customer Segmentation (7 Categories)
 - It also allows marketers to quickly identify segments (and their characteristics) with the highest (or lowest) value and target campaigns accordingly.
 
 ## Results
-Total Revenue: $338.40M
+Total Revenue: $338,40M
   
 Revenue by RFM Segmenatiton:
 - Big Spenders $154M (45,69% of Total Revenue)
@@ -88,8 +88,8 @@ Revenue by RFM Segmenatiton:
 - Loyal Customers: $32M (9,68%)
 - Need Attention: $19M (5,73%)
 - Others: $13M (3,9%)
-- At Risk: $9.6M (2,8%)
--  Lost: $6.5M (1,93%)
+- At Risk: $9,6M (2,8%)
+-  Lost: $6,5M (1,93%)
 
 Total Number of Customers: 294 423 
   
