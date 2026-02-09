@@ -406,7 +406,6 @@ AND Ratings IS NOT NULL;
 ALTER TABLE retail_data
 ALTER COLUMN Ratings INT NULL;
 
-
 --- kontrola, či dáta dávajú zmysel v kontexte:
 
 --- Transaction_ID musú mať unikátne hodnoty - ostatné som vymazala
@@ -498,6 +497,7 @@ FROM retail_data
 WHERE Email not like '%@%.%';
 
 -- kontrola potreby odstránenia nepoužiteľných alebo nadbytočných stĺpcov (ponechala som všetky)
+
 
 
 
