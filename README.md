@@ -34,7 +34,7 @@
 - Aggregations: SUM(), COUNT(), AVG(), MAX(), MIN()
 - Conditional logic: CASE WHEN … THEN … END
 - CTEs (Common Table Expressions)
-- Window Functions: ROW_NUMBER(), NTILE(), DENSE_RANK(), OVER (PARTITION BY …)
+- Window Functions: ROW_NUMBER(), NTILE()
 - JOINs
 - Temporary Tables
 - TRY_CONVERT / TRY_PARSE for data cleaning
